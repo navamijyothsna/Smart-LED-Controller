@@ -8,8 +8,8 @@ A beginner Arduino project that controls an LED using serial commands.
 - 220Ω resistor
 - Breadboard
 
-- -## Circuit Diagram
-- <img width="1035" height="616" alt="Screenshot 2026-06-21 203259" src="https://github.com/user-attachments/assets/d4f25623-8a66-4261-922d-974f928a3b73" />
+- ## Circuit Diagram
+- <img width="600" height="400" alt="Screenshot 2026-06-21 203259" src="https://github.com/user-attachments/assets/d4f25623-8a66-4261-922d-974f928a3b73" />
 
 
 ## Features
